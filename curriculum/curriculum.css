@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(243, 243, 207);
+    text-align: justify;
+}
+
+h1{
+    color: rgb(48, 136, 139);
+    text-align: center;
+    font-weight: bold;
+    font-size:240% ;
+}
+
+h2{
+    color:rgb(48, 136, 139) ;
+    background-color: rgb(189, 173, 135);
+    font-size: 200%;
+}
+
+h3{
+    font-size: 150%;
+    background-color:rgb(189, 173, 135) ;
+    color: rgb(48, 136, 139);
+}
+p{
+    background-color: rgba(243, 190, 126, 0.692) ;
+}
+
+address{
+    background-color: snow;
+    text-align: right;
+    font-size: 120%;
+}
+
